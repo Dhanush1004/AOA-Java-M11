@@ -37,15 +37,15 @@ Then merge C11, C12, C21, C22 to get the final matrix C.
 
 5.Display the resultant matrix C as the product of A and B, and stop the program. 
 
-
-## Program:
 ```
-/*
 Program to implement Reverse a String
 Developed by: N.Navya Sree
 Register Number: 212223040138 
-*/
 
+```
+
+## Program:
+```
 import java.util.Scanner;
 
 public class StrassenMatrix {
