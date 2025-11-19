@@ -27,8 +27,8 @@ End loop and stop the program.
 ```
 /*
 Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
+Developed by: DHANUSH A
+Register Number:  212222220010
 */
 
 import java.util.*; 
