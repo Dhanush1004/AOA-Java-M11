@@ -23,13 +23,13 @@ If (m + n) is odd, skip (m + n)/2 elements, then take the next smallest element 
 
 5.Display the computed median and stop the program.  
 
-## Program:
 ```
-/*
-Program to implement Reverse a String
 Developed by: Dhanush A
 Register Number:  212222220010
-*/
+```
+
+## Program:
+```
 
 import java.util.Scanner;
 
